@@ -19,13 +19,15 @@ Anggota:
 1. Deployment Diagram  
 ![Deployment Diagram](assets/images/DeploymentDiagram.png)
 
-### Dst
+### yg lain
 
 ### Coupon
 Coupon code diagram:
-![alt text](image.png)
+![alt text](DeliverableIrfan/image.png)
 
 Coupon component diagram:
+
+### yg lain
 
 ## Deliverables G.2
 
