@@ -11,13 +11,13 @@ Anggota:
 ## Deliverables G.1
 
 1. Context Diagram  
-![Context Diagram](img/g1_context_diagram.jpg)
+![Context Diagram](assets/images/ContextDiagram.png)
 
-2. Container Diagram  
-![Container Diagram](img/g1_container_diagram.jpg)
+1. Container Diagram  
+![Container Diagram](assets/images/ContainerDiagram.png)
 
-3. Deployment Diagram  
-![Deployment Diagram](img/g1_deployment_diagram.jpg)
+1. Deployment Diagram  
+![Deployment Diagram](assets/images/DeploymentDiagram.png)
 
 ### Dst
 
@@ -30,3 +30,6 @@ Coupon component diagram:
 ## Deliverables G.2
 
 ## Deliverables G.3
+
+
+Link FigJam : https://www.figma.com/board/cMaWa9jgpEqmEaNmcLc5uo/AdPro-B13-Group-Discussion?node-id=0%3A1&t=CrRXl2yaUjWiGCMf-1
