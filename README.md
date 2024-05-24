@@ -19,7 +19,11 @@ Anggota:
 1. Deployment Diagram  
 ![Deployment Diagram](assets/images/DeploymentDiagram.png)
 
-### yg lain
+## Code Diagram
+
+### Product
+Product code diagram:
+![Product Code Diagram](DeliverableDaffa/HeyMart%20Manage%20Product%20Code%20Diagram.png)
 
 ### Coupon
 Coupon code diagram:
