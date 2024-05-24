@@ -19,6 +19,13 @@ Anggota:
 3. Deployment Diagram  
 ![Deployment Diagram](img/g1_deployment_diagram.jpg)
 
+### Dst
+
+### Coupon
+Coupon code diagram:
+![alt text](image.png)
+
+Coupon component diagram:
 
 ## Deliverables G.2
 
